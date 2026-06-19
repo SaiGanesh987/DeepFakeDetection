@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Datasets
+rvf10k/
+DeepfakeTIMIT/
+dataset/
+
+# Outputs
+outputs/
+
+# Training history
+history.pkl
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
